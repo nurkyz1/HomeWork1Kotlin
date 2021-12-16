@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="addText">Ведите значение</string>
+    <string name="save">Сохранить</string>
+</resources>
